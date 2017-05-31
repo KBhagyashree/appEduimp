@@ -1,2 +1,2 @@
-# appEduimp
+# appeduimp
 My hobby project
